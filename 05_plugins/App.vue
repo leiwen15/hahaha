@@ -1,6 +1,5 @@
 <template>
   <div>
-      <h1 class="demo">hello</h1>
       <!-- 加上冒号，将其变成js表达式使用 -->
       <School/>
       <Student/>
@@ -18,8 +17,6 @@
     }
 </script>
 
-<style lang="less">
-    .demo{ 
-        background-color: pink;
-    }
+<style>
+
 </style>

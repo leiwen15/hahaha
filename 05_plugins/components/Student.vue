@@ -1,5 +1,5 @@
 <template>
-  <div class="demo">
+  <div>
       <h2>学生姓名：{{name}}</h2>
       <h2>学生年龄：{{age}}</h2>
 
@@ -17,9 +17,4 @@
         },
     }
 </script>
-<style scoped>
-    .demo {
-        background-color: orange;
-    }
-</style>
 
